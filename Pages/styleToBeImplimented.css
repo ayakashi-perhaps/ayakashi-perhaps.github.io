@@ -104,3 +104,16 @@ body {
     color: #a5c8ff;
 }
 
+
+.notice {
+    display: flex;
+    flex: 1 1 auto;
+    height: calc(100vh - 80px);
+
+    align-items: center;
+    justify-content: center;
+
+    color: #a5c8ff;
+
+    font-size: 100px;
+}
