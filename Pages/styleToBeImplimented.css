@@ -23,7 +23,7 @@ html, body {
     padding: 0;
 
     font-family: "Caveat Brush", cursive;
-    font-size: 21px;
+    font-size: 16px;
 }
 
 body {
@@ -83,8 +83,10 @@ body {
 }
 
 .home {
-    font-size: 36px;
+    font-size: 3em;
     color: #a5c8ff;
+
+    align-items: center;
 }
 
 .nav ul{
@@ -100,10 +102,9 @@ body {
 
 .nav ul a {
     text-decoration: none;
-
+    font-size: 1.5em;
     color: #a5c8ff;
 }
-
 
 .notice {
     display: flex;
